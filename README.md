@@ -34,7 +34,7 @@ TG：@Rune_Mike
 
 7. 更多操作新增下载原包功能按钮
 
-![1](https://github.com/Rune-Mike/APK-Detox/blob/main/1.png)
-![2](https://github.com/Rune-Mike/APK-Detox/blob/main/2.png)
-![3](https://github.com/Rune-Mike/APK-Detox/blob/main/3.png)
-![4](https://github.com/Rune-Mike/APK-Detox/blob/main/4.png)
+![1](https://raw.githubusercontent.com/Rune-Mike/APK-Detox/main/1.png)
+![2](https://raw.githubusercontent.com/Rune-Mike/APK-Detox/main/2.png)
+![3](https://raw.githubusercontent.com/Rune-Mike/APK-Detox/main/3.png)
+![4](https://raw.githubusercontent.com/Rune-Mike/APK-Detox/main/4.png)
