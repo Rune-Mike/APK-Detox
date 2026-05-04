@@ -34,6 +34,10 @@ TG：@Rune_Mike
 
 7. 更多操作新增下载原包功能按钮
 
+![首页](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/首页.png)
+![apk](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/apk.png)
+![网站](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/网站.png)
+![时间](https://github.com/Ktz-ali/APKMraeds/blob/main/演示图/时间.png)
 
 The APK intelligent processing and distribution system is used to multi-package Android applications, reconstruct the internal structure of the APK, and is an automated distribution system with functions such as package name randomization, signature randomization, APK pseudo-encryption, code obfuscation, website encapsulation and reinforcement. This version is a secondary development and remake based on the Yaohui program.
 
