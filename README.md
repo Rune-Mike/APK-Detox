@@ -1,12 +1,9 @@
 # APK-Detox
-APK智能处理分发系统用于对Android应用进行多重打包，重构APK内部结构、具备包名随机化、签名随机化、APK伪加密、代码混淆、网站封装及加固等功能的自动化分发系统。
+APK智能处理分发系统用于对Android应用进行多重打包，重构APK内部结构、具备包名随机化、签名随机化、APK伪加密、代码混淆、网站封装及加固等功能的自动化分发系统，此版为遥辉程序的基础上二次开发重制而来。
 
-程序售价：1000U
-源码售价：3000U
 
 TG：@Rune_Mike
 
-##2026/04/20更新内容
 
 ★ 优化内容
 
@@ -37,10 +34,39 @@ TG：@Rune_Mike
 
 7. 更多操作新增下载原包功能按钮
 
-★ 特别说明
 
-默认分享页为最新仿苹果商城风格的下载页
+The APK intelligent processing and distribution system is used to multi-package Android applications, reconstruct the internal structure of the APK, and is an automated distribution system with functions such as package name randomization, signature randomization, APK pseudo-encryption, code obfuscation, website encapsulation and reinforcement. This version is a secondary development and remake based on the Yaohui program.
 
-链接格式为：http://127.0.0.1:8080/distribution?type=local&secureUnique=C6AF17C919
+Program price: 1000U
+Source code price: 3000U
 
-其中【distribution?type=】替换为【#/shareDownPage?url=】访问即可组成二维码风格的下载页
+TG: @Rune_Mike
+
+★ Optimize content
+
+1. Fix some known bugs and improve processing efficiency
+
+2. Upgrade the hardening shell to support higher Android versions, change the hardening password to dynamic, and fix the problem that some packages cannot be hardened by hardening.
+
+3. Brand new modern UI interface, more beautiful and improve user experience
+
+4. The xml rules have been named according to the actual permission names, making it easy to select as needed.
+
+5. The apk remark function supports direct click changes in the package management.
+
+★ New content
+
+1. Added short link configuration function, you can set the short link expiration time, etc.
+
+2. Added XML manifest configuration file obfuscation function
+
+3. Added APK pseudo-encryption function
+
+4. DEX file random obfuscation function
+
+5. Added OSS object storage
+   · 360 Intelligence, Colorful Cloud, layerpanel
+
+6. Added a batch delete package function button in the application package management interface
+
+7. Added a new download original package function button for more operations
